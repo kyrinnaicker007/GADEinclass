@@ -43,6 +43,7 @@ namespace ConsoleApp9_HowToUseASwitchStatement
                     default:
                         Console.WriteLine("it appears you dont have a number from 1 to 5, GOODBYE!");
                         break;
+                        //added some spice to the mix and dalad some respect for the members of the code. dont fuck around here okay!
 
 
                 }
